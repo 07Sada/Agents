@@ -7,11 +7,15 @@ authors = [
     { name = "07Sada", email = "sadashiv.nandanikar07@gmail.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "openai>=3.11.0",
+    "python-dotenv>=1.2.3",
+]
 
-[project.scripts]
-agent-projects = "agent_projects:main"
+[tool.uv]
+package = false
 
-[build-system]
-requires = ["uv_build>=0.12.11,<0.13.0"]
-build-backend = "uv_build"
+[dependency-groups]
+dev = [
+    "ipykernel>=7.3.0",
+]
