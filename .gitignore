@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Personal info from twin directory
+1_foundation/twin/
+
+# temperory email storage file
+1_foundation/email.txt
