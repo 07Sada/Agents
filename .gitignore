@@ -218,7 +218,10 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Personal info from twin directory
-1_foundation/twin/
+# linkedin profile
+1_foundation/twin/linkedin_profile.pdf
+1_foundation/twin/resume.pdf
+1_foundation/twin/summary.txt
 
 # temperory email storage file
 1_foundation/email.txt
