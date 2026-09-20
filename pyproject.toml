@@ -9,6 +9,7 @@ authors = [
 requires-python = ">=3.12"
 dependencies = [
     "gradio>=6.28.0",
+    "graphviz>=0.21",
     "openai>=3.11.0",
     "openai-agents>=0.22.3",
     "pypdf>=6.19.0",
