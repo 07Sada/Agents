@@ -12,6 +12,7 @@ dependencies = [
     "openai>=3.11.0",
     "pypdf>=6.19.0",
     "python-dotenv>=1.2.3",
+    "requests>=2.34.2",
 ]
 
 [tool.uv]
