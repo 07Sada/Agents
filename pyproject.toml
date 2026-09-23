@@ -10,6 +10,10 @@ requires-python = ">=3.12"
 dependencies = [
     "gradio>=6.28.0",
     "graphviz>=0.21",
+    "langchain>=1.4.2",
+    "langchain-community>=0.4.2",
+    "langchain-openai>=1.6.2",
+    "langgraph>=1.2.12",
     "openai>=3.11.0",
     "openai-agents>=0.22.3",
     "pypdf>=6.19.0",
