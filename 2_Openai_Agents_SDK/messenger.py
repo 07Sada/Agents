@@ -23,11 +23,11 @@ def send_email(subject, text_body, html_body):
         server.login(EMAIL_ADDRESS, EMAIL_APP_PASSWORD)
         server.send_message(msg)
     
-    PUSHOVER_USER = os.getenv("PUSHOVER_USER")
-    PUSHOVER_TOKEN = os.getenv("PUSHOVER_TOKEN")
-    PUSHOVER_URL = "https://api.pushover.net/1/messages.json"
+PUSHOVER_USER = os.getenv("PUSHOVER_USER")
+PUSHOVER_TOKEN = os.getenv("PUSHOVER_TOKEN")
+PUSHOVER_URL = "https://api.pushover.net/1/messages.json"
 
-    def push(message):
-        print(f"Push: {message}")
-        payload = {'user': PUSHOVER_USER, 'token': PUSHOVER_TOKEN, 'message': message}
-        requests.post(PUSHOVER_URL, data=payload)
+def push(message):
+    print(f"Push: {message}")
+    payload = {'user': PUSHOVER_USER, 'token': PUSHOVER_TOKEN, 'message': message}
+    requests.post(PUSHOVER_URL, data=payload)
