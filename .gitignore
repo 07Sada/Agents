@@ -225,3 +225,5 @@ __marimo__/
 
 # temperory email storage file
 1_foundation/email.txt
+
+4_Langchain_Langgraph/.playwright-mcp/*
