@@ -1,28 +1,20 @@
-# Flight Recommendations from New York to London
+1. Flight with American Airlines
+   - Price: ₹75,547
+   - Departure: 10:10 AM, Nov 4
+   - Arrival: 10:10 PM, Nov 4
+   - Duration: 7 hr
+   - Notes: Nonstop flight
 
-## Recommendation Summary
-Here are the top three flight options for a round trip from New York to London:
+2. Flight with JetBlue
+   - Price: ₹76,671
+   - Departure: 9:30 AM, Nov 4
+   - Arrival: 9:40 PM, Nov 4
+   - Duration: 7 hr 10 min
+   - Notes: Nonstop flight
 
-### Option 1: 
-- **Airline**: British Airways 
-- **Departure**: November 2, 2026, at 7:00 PM 
-- **Return**: November 9, 2026, at 10:00 AM 
-- **Price**: $550 
-- **Total Journey Time**: 7h 20m (non-stop)
-
-### Option 2: 
-- **Airline**: American Airlines 
-- **Departure**: November 2, 2026, at 8:30 PM 
-- **Return**: November 9, 2026, at 8:00 AM 
-- **Price**: $600 
-- **Total Journey Time**: 7h 30m (non-stop)
-
-### Option 3: 
-- **Airline**: United Airlines 
-- **Departure**: November 2, 2026, at 6:00 PM 
-- **Return**: November 9, 2026, at 2:00 PM 
-- **Price**: $620 
-- **Total Journey Time**: 7h 50m (non-stop)
-
-## Recommendation: 
-The best option is **Option 1** with British Airways for **$550**.
+3. Flight with British Airways
+   - Price: ₹76,671
+   - Departure: 8:05 AM, Nov 4
+   - Arrival: 8:00 PM, Nov 4
+   - Duration: 6 hr 55 min
+   - Notes: Nonstop flight
