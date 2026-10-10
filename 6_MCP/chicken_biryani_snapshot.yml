@@ -1,0 +1,895 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - link "Skip to main content":
+      - /url: "#site-main"
+    - generic [ref=e9]:
+      - navigation "Quick links" [ref=e11]:
+        - list [ref=e12]:
+          - listitem [ref=e13]:
+            - link "Subscribe" [ref=e14] [cursor=pointer]:
+              - /url: https://www.bbcgoodfood.com/subscribe
+          - listitem [ref=e15]:
+            - link "Sustainability" [ref=e16] [cursor=pointer]:
+              - /url: https://www.bbcgoodfood.com/feature/sustainability
+          - listitem [ref=e17]:
+            - link "Good Food Shows" [ref=e18] [cursor=pointer]:
+              - /url: https://www.goodfoodshow.com/summer/?utm_source=bbcgoodfood.com&utm_medium=referral&utm_campaign=eyebrowbanner
+          - listitem [ref=e19]:
+            - link "Download our app" [ref=e20] [cursor=pointer]:
+              - /url: https://immediate.onelink.me/OQap?af_xp=custom&pid=website&c=homepage_eyebrow&is_oct26_30_minute_comforts&is_retargeting=true&af_reengagement_window=30d&af_dp=bbcgoodfood%3A%2F%2F
+          - listitem [ref=e21]:
+            - link "Newsletters" [ref=e22] [cursor=pointer]:
+              - /url: https://www.bbcgoodfood.com/newsletters
+      - navigation "Account" [ref=e25]:
+        - list [ref=e26]:
+          - listitem [ref=e27]
+          - listitem [ref=e31]:
+            - link "Sign in" [ref=e32] [cursor=pointer]:
+              - /url: /api/auth/login
+          - listitem [ref=e33]:
+            - link "Register" [ref=e34] [cursor=pointer]:
+              - /url: /api/auth/signup
+    - link [ref=e41] [cursor=pointer]:
+      - /url: https://www.bbcgoodfood.com
+      - img "Good Food logo in black" [ref=e43]
+    - navigation "Main" [ref=e45]:
+      - menubar [ref=e47]:
+        - menuitem "Recipes" [ref=e48] [cursor=pointer]
+        - menuitem "Health" [ref=e53] [cursor=pointer]
+        - menuitem "What to buy" [ref=e58] [cursor=pointer]
+        - menuitem "Budget" [ref=e63] [cursor=pointer]
+        - menuitem "Baking" [ref=e68] [cursor=pointer]
+        - menuitem "Subscribe" [ref=e73] [cursor=pointer]
+    - search [ref=e76]:
+      - generic [ref=e77]:
+        - generic [ref=e78] [cursor=pointer]: Search
+        - textbox "Search" [ref=e86]:
+          - /placeholder: Recipes, guides and more...
+    - main [ref=e87]:
+      - generic [ref=e88]:
+        - navigation "Breadcrumb" [ref=e89]:
+          - list [ref=e90]:
+            - listitem [ref=e91]:
+              - link "Home" [ref=e92] [cursor=pointer]:
+                - /url: https://www.bbcgoodfood.com:443
+            - listitem [ref=e93]:
+              - link "Recipes" [ref=e97] [cursor=pointer]:
+                - /url: https://www.bbcgoodfood.com/recipes
+            - listitem [ref=e98]:
+              - generic [ref=e102]: Chicken biryani
+        - generic [ref=e104]:
+          - generic [ref=e108]:
+            - 'button "Chicken biryani: Play video" [ref=e109] [cursor=pointer]'
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - button "click to play":
+                        - img "play"
+          - banner [ref=e118]:
+            - heading "Chicken biryani" [level=1] [ref=e120]
+            - list [ref=e123]:
+              - listitem [ref=e124]:
+                - link "Good Food team" [ref=e125] [cursor=pointer]:
+                  - /url: /author/goodfood
+            - generic [ref=e127]:
+              - button "Save recipe" [ref=e128] [cursor=pointer]
+              - button "Manage Collections":
+                - generic [ref=e135] [cursor=pointer]
+            - generic [ref=e139]:
+              - generic [ref=e140]:
+                - strong [ref=e142]: Serves 4
+                - strong [ref=e144]: Easy
+              - generic [ref=e145]:
+                - generic [ref=e146]:
+                  - text: "Prep:"
+                  - strong [ref=e147]:
+                    - time [ref=e149]: 10 mins
+                - generic [ref=e150]:
+                  - text: "Cook:"
+                  - strong [ref=e151]:
+                    - time [ref=e153]: 30 mins
+            - generic [ref=e156]:
+              - link [ref=e157] [cursor=pointer]:
+                - /url: "#rating"
+                - generic "rating" [ref=e159]:
+                  - generic [ref=e176]: A star rating of 4.6 out of 5.
+                  - generic [ref=e177]: 823 ratings
+                  - generic [ref=e178]: Rate
+              - link "545 comments" [ref=e179] [cursor=pointer]:
+                - /url: "#commentsFeed"
+            - paragraph [ref=e184]: A great one-pot rice dish that still tastes great a few days later – perfect for leftovers
+            - generic [ref=e185]:
+              - generic [ref=e186]: Easily halved
+              - generic [ref=e187]: Egg-free
+              - generic [ref=e188]: High-protein
+              - generic [ref=e189]: Low sugar
+              - generic [ref=e190]: Nut-free
+            - button "Print" [ref=e191] [cursor=pointer]
+        - main [ref=e196]:
+          - link "Skip to ingredients":
+            - /url: "#ingredients-list"
+          - generic [ref=e197]:
+            - generic [ref=e199]:
+              - button "Alternatives" [ref=e200] [cursor=pointer]
+              - button "Complete the dish" [ref=e202] [cursor=pointer]
+            - generic [ref=e208]:
+              - region [ref=e209]:
+                - paragraph [ref=e210]: Showing items 1 to 3 of 6
+              - generic [ref=e211]:
+                - button "previous item" [ref=e212] [cursor=pointer]
+                - generic [ref=e224]:
+                  - article [ref=e228]:
+                    - link [ref=e231] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/low-fat-chicken-biryani
+                    - generic [ref=e236]:
+                      - link [ref=e237] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfood.com/recipes/low-fat-chicken-biryani
+                        - heading [level=6] [ref=e238]: Low-fat chicken biryani
+                      - generic [ref=e240]:
+                        - generic [ref=e257]: A star rating of 4 out of 5.
+                        - generic [ref=e258]: 29 ratings
+                  - article [ref=e262]:
+                    - link [ref=e265] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/chicken-jalfrezi
+                    - generic [ref=e274]:
+                      - link [ref=e275] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfood.com/recipes/chicken-jalfrezi
+                        - heading [level=6] [ref=e276]: Chicken jalfrezi
+                      - generic [ref=e278]:
+                        - generic [ref=e295]: A star rating of 4.5 out of 5.
+                        - generic [ref=e296]: 631 ratings
+                  - article [ref=e300]:
+                    - link [ref=e303] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/easy-teriyaki-chicken
+                    - generic [ref=e312]:
+                      - link [ref=e313] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfood.com/recipes/easy-teriyaki-chicken
+                        - heading [level=6] [ref=e314]: Easy teriyaki chicken
+                      - generic [ref=e316]:
+                        - generic [ref=e333]: A star rating of 4.4 out of 5.
+                        - generic [ref=e334]: 306 ratings
+                  - article [ref=e338]:
+                    - link "View Chicken biryani bake" [ref=e341] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/chicken-biryani-bake
+                      - img "Chicken biryani bake" [ref=e345]
+                    - generic [ref=e346]:
+                      - link [ref=e347] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfood.com/recipes/chicken-biryani-bake
+                        - heading "Chicken biryani bake" [level=6] [ref=e348]
+                      - generic "rating" [ref=e350]:
+                        - generic [ref=e367]: A star rating of 4.2 out of 5.
+                        - generic [ref=e368]: 33 ratings
+                  - article [ref=e372]:
+                    - link "View One-pot chicken biryani. This is a premium piece of content available to subscribed users." [ref=e375] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/premium/one-pot-chicken-biryani
+                      - img "One-pot chicken biryani" [ref=e379]
+                    - generic [ref=e380]:
+                      - link [ref=e381] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfood.com/premium/one-pot-chicken-biryani
+                        - heading "App only|One-pot chicken biryani . This is a premium piece of content available to subscribed users." [level=6] [ref=e392]:
+                          - text: App only|One-pot chicken biryani
+                          - generic [ref=e393]: . This is a premium piece of content available to subscribed users.
+                      - generic "rating" [ref=e395]:
+                        - generic [ref=e412]: A star rating of 4.2 out of 5.
+                        - generic [ref=e413]: 5 ratings
+                  - article [ref=e417]:
+                    - link "View Chicken biryani pilau" [ref=e420] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/chicken-biryani-pilau
+                      - img "Chicken biryani pilau" [ref=e424]
+                    - generic [ref=e425]:
+                      - link [ref=e426] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfood.com/recipes/chicken-biryani-pilau
+                        - heading "Chicken biryani pilau" [level=6] [ref=e427]
+                      - generic "rating" [ref=e429]:
+                        - generic [ref=e446]: A star rating of 4.4 out of 5.
+                        - generic [ref=e447]: 73 ratings
+                  - article [ref=e451]:
+                    - link [ref=e454] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/low-fat-chicken-biryani
+                    - generic [ref=e459]:
+                      - link [ref=e460] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfood.com/recipes/low-fat-chicken-biryani
+                        - heading [level=6] [ref=e461]: Low-fat chicken biryani
+                      - generic [ref=e463]:
+                        - generic [ref=e480]: A star rating of 4 out of 5.
+                        - generic [ref=e481]: 29 ratings
+                  - article [ref=e485]:
+                    - link [ref=e488] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/chicken-jalfrezi
+                    - generic [ref=e497]:
+                      - link [ref=e498] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfood.com/recipes/chicken-jalfrezi
+                        - heading [level=6] [ref=e499]: Chicken jalfrezi
+                      - generic [ref=e501]:
+                        - generic [ref=e518]: A star rating of 4.5 out of 5.
+                        - generic [ref=e519]: 631 ratings
+                  - article [ref=e523]:
+                    - link [ref=e526] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/easy-teriyaki-chicken
+                    - generic [ref=e535]:
+                      - link [ref=e536] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfood.com/recipes/easy-teriyaki-chicken
+                        - heading [level=6] [ref=e537]: Easy teriyaki chicken
+                      - generic [ref=e539]:
+                        - generic [ref=e556]: A star rating of 4.4 out of 5.
+                        - generic [ref=e557]: 306 ratings
+                  - article [ref=e561]:
+                    - link [ref=e564] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/chicken-biryani-bake
+                    - generic [ref=e569]:
+                      - link [ref=e570] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfood.com/recipes/chicken-biryani-bake
+                        - heading [level=6] [ref=e571]: Chicken biryani bake
+                      - generic [ref=e573]:
+                        - generic [ref=e590]: A star rating of 4.2 out of 5.
+                        - generic [ref=e591]: 33 ratings
+                  - article [ref=e595]:
+                    - link [ref=e598] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/premium/one-pot-chicken-biryani
+                    - generic [ref=e603]:
+                      - link [ref=e604] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfood.com/premium/one-pot-chicken-biryani
+                        - heading [level=6] [ref=e615]:
+                          - text: App only|One-pot chicken biryani
+                          - generic [ref=e616]: . This is a premium piece of content available to subscribed users.
+                      - generic [ref=e618]:
+                        - generic [ref=e635]: A star rating of 4.2 out of 5.
+                        - generic [ref=e636]: 5 ratings
+                  - article [ref=e640]:
+                    - link [ref=e643] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/chicken-biryani-pilau
+                    - generic [ref=e648]:
+                      - link [ref=e649] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfood.com/recipes/chicken-biryani-pilau
+                        - heading [level=6] [ref=e650]: Chicken biryani pilau
+                      - generic [ref=e652]:
+                        - generic [ref=e669]: A star rating of 4.4 out of 5.
+                        - generic [ref=e670]: 73 ratings
+                  - article [ref=e674]:
+                    - link [ref=e677] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/low-fat-chicken-biryani
+                    - generic [ref=e682]:
+                      - link [ref=e683] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfood.com/recipes/low-fat-chicken-biryani
+                        - heading [level=6] [ref=e684]: Low-fat chicken biryani
+                      - generic [ref=e686]:
+                        - generic [ref=e703]: A star rating of 4 out of 5.
+                        - generic [ref=e704]: 29 ratings
+                  - article [ref=e708]:
+                    - link [ref=e711] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/chicken-jalfrezi
+                    - generic [ref=e720]:
+                      - link [ref=e721] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfood.com/recipes/chicken-jalfrezi
+                        - heading [level=6] [ref=e722]: Chicken jalfrezi
+                      - generic [ref=e724]:
+                        - generic [ref=e741]: A star rating of 4.5 out of 5.
+                        - generic [ref=e742]: 631 ratings
+                  - article [ref=e746]:
+                    - link [ref=e749] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/easy-teriyaki-chicken
+                    - generic [ref=e758]:
+                      - link [ref=e759] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfood.com/recipes/easy-teriyaki-chicken
+                        - heading [level=6] [ref=e760]: Easy teriyaki chicken
+                      - generic [ref=e762]:
+                        - generic [ref=e779]: A star rating of 4.4 out of 5.
+                        - generic [ref=e780]: 306 ratings
+                - button "next item" [ref=e781] [cursor=pointer]
+                - navigation "pagination" [ref=e792]:
+                  - list [ref=e794]:
+                    - listitem [ref=e795]:
+                      - button "Page 1" [ref=e796] [cursor=pointer]
+                    - listitem [ref=e798]:
+                      - button "Page 2" [ref=e799] [cursor=pointer]
+          - generic [ref=e801]:
+            - generic [ref=e803]:
+              - generic [ref=e804]:
+                - generic [ref=e806]:
+                  - generic [ref=e807]:
+                    - generic [ref=e808]:
+                      - heading [level=2] [ref=e809]:
+                        - button "Ingredients" [ref=e810] [cursor=pointer]
+                      - heading [level=2] [ref=e811]:
+                        - button "Nutrition" [ref=e812] [cursor=pointer]
+                    - generic [ref=e813]:
+                      - radiogroup "Units:" [ref=e816]:
+                        - generic [ref=e818]:
+                          - radio "Metric" [checked] [ref=e819] [cursor=pointer]
+                          - radio "US" [ref=e820] [cursor=pointer]
+                      - generic [ref=e823]:
+                        - list [ref=e825]:
+                          - listitem [ref=e826]:
+                            - text: 300g
+                            - link "basmati rice" [ref=e827] [cursor=pointer]:
+                              - /url: /glossary/rice-glossary
+                          - listitem [ref=e828]:
+                            - text: 25g
+                            - link "butter" [ref=e829] [cursor=pointer]:
+                              - /url: /glossary/butter-glossary
+                          - listitem [ref=e830]:
+                            - text: "1"
+                            - link "large onion" [ref=e831] [cursor=pointer]:
+                              - /url: /glossary/onion-glossary
+                            - generic [ref=e832]: finely sliced
+                          - listitem [ref=e833]: 1 bay leaf
+                          - listitem [ref=e834]: 3 cardamom pods
+                          - listitem [ref=e835]:
+                            - text: small
+                            - link "cinnamon stick" [ref=e836] [cursor=pointer]:
+                              - /url: /glossary/cinnamon-glossary
+                          - listitem [ref=e837]:
+                            - text: 1 tsp
+                            - link "turmeric" [ref=e838] [cursor=pointer]:
+                              - /url: /glossary/turmeric-glossary
+                          - listitem [ref=e839]:
+                            - text: "4"
+                            - link "skinless chicken breasts" [ref=e840] [cursor=pointer]:
+                              - /url: /glossary/chicken-glossary
+                            - generic [ref=e841]: cut into large chunks
+                          - listitem [ref=e842]: 4 tbsp balti curry paste
+                          - listitem [ref=e843]: 85g raisins
+                          - listitem [ref=e844]: 850ml chicken stock
+                          - listitem [ref=e845]:
+                            - text: 30g coriander
+                            - generic [ref=e846]: ½ chopped, ½ leaves picked and 2 tbsp toasted flaked almonds, to serve
+                        - generic [ref=e851]:
+                          - text: Keep the screen awake with cook mode on the
+                          - link "Good Food app." [ref=e852] [cursor=pointer]:
+                            - /url: https://immediate.onelink.me/OQap?af_xp=custom&pid=website&c=ingredients_CTA&is_retargeting=true&af_reengagement_window=30d&af_dp=bbcgoodfood%3A%2F%2F
+                  - generic [ref=e853]:
+                    - heading "Method" [level=2] [ref=e854]
+                    - list [ref=e855]:
+                      - listitem [ref=e856]:
+                        - heading "step 1" [level=3] [ref=e857]
+                        - paragraph [ref=e859]: Soak 300g basmati rice in warm water, then wash in cold until the water runs clear.
+                      - listitem [ref=e860]:
+                        - heading "step 2" [level=3] [ref=e861]
+                        - paragraph [ref=e863]:
+                          - text: Heat 25g butter in a
+                          - link "saucepan" [ref=e864] [cursor=pointer]:
+                            - /url: https://www.bbcgoodfood.com/review/best-saute-pans
+                          - text: and cook 1 finely sliced large onion with 1 bay leaf, 3 cardamom pods and 1 small cinnamon stick for 10 mins.
+                      - listitem [ref=e865]:
+                        - heading "step 3" [level=3] [ref=e866]
+                        - paragraph [ref=e868]: Sprinkle in 1 tsp turmeric, then add 4 chicken breasts, cut into large chunks, and 4 tbsp curry paste. Cook until aromatic.
+                      - listitem [ref=e869]:
+                        - heading "step 4" [level=3] [ref=e870]
+                        - paragraph [ref=e872]: Stir the rice into the pan with 85g raisins, then pour over 850ml chicken stock.
+                      - listitem [ref=e873]:
+                        - heading "step 5" [level=3] [ref=e874]
+                        - paragraph [ref=e876]: Place a tight-fitting lid on the pan and bring to a hard boil, then lower the heat to a minimum and cook the rice for another 5 mins.
+                      - listitem [ref=e877]:
+                        - heading "step 6" [level=3] [ref=e878]
+                        - paragraph [ref=e880]: Turn off the heat and leave for 10 mins. Stir well, mixing through 15g chopped coriander. To serve, scatter over the leaves of the remaining 15g coriander and 2 tbsp toasted almonds.
+                - generic [ref=e883]:
+                  - heading "RECIPE TIPS" [level=6] [ref=e884]
+                  - generic [ref=e886]:
+                    - heading "LEFT OVER RICE" [level=6] [ref=e887]
+                    - text: The next day, enjoy a Coronation chicken rice salad for lunch. Mix the cold rice with mayonnaise and a squeeze of lemon juice and serve with Baby Gem leaves and sliced cucumber.
+                - paragraph [ref=e888]: Recipe from Good Food magazine, September 2007
+              - generic [ref=e890]:
+                - heading "Comments, questions and tips (545)" [level=2] [ref=e891]
+                - generic [ref=e895]:
+                  - heading "Rate this recipe" [level=3] [ref=e896]
+                  - group "What is your star rating out of 5?" [ref=e897]:
+                    - generic [ref=e899] [cursor=pointer]:
+                      - generic [ref=e900]: 1 star out of 5
+                      - radio "1 star out of 5" [ref=e901]
+                    - generic [ref=e905] [cursor=pointer]:
+                      - generic [ref=e906]: 2 stars out of 5
+                      - radio "2 stars out of 5" [ref=e907]
+                    - generic [ref=e911] [cursor=pointer]:
+                      - generic [ref=e912]: 3 stars out of 5
+                      - radio "3 stars out of 5" [ref=e913]
+                    - generic [ref=e917] [cursor=pointer]:
+                      - generic [ref=e918]: 4 stars out of 5
+                      - radio "4 stars out of 5" [ref=e919]
+                    - generic [ref=e923] [cursor=pointer]:
+                      - generic [ref=e924]: 5 stars out of 5
+                      - radio "5 stars out of 5" [ref=e925]
+                - generic [ref=e932]:
+                  - heading "Choose the type of message you'd like to post" [level=3] [ref=e933]
+                  - group "Choose the type of message you'd like to post" [ref=e934]:
+                    - generic [ref=e936] [cursor=pointer]:
+                      - radio "Comment" [ref=e937]
+                      - generic [ref=e938]: Comment
+                    - generic [ref=e943] [cursor=pointer]:
+                      - radio "Question" [ref=e944]
+                      - generic [ref=e945]: Question
+                    - generic [ref=e950] [cursor=pointer]:
+                      - radio "Tip" [ref=e951]
+                      - generic [ref=e952]: Tip
+                - generic [ref=e957]:
+                  - heading "Overall rating" [level=3] [ref=e958]
+                  - generic "rating" [ref=e960]:
+                    - generic [ref=e977]: A star rating of 4.6 out of 5.
+                    - generic [ref=e978]: 823 ratings
+                - article [ref=e979]:
+                  - generic [ref=e986]:
+                    - heading "rlcpayne" [level=4] [ref=e987]
+                    - time [ref=e988]: 1 month ago
+                  - paragraph [ref=e990]: Delicious and very easy. I cooked my rice a bit longer (10 mins).
+                  - button "Reply" [ref=e992] [cursor=pointer]
+                - article [ref=e994]:
+                  - generic [ref=e1001]:
+                    - heading "jake.harris23" [level=4] [ref=e1002]
+                    - time [ref=e1003]: 4 months ago
+                  - paragraph [ref=e1005]: Can you amend the ingredients so the toasted almonds appear as their own ingredient instead of sneaking in as part of the 30g coriander line?
+                  - button "Reply" [ref=e1007] [cursor=pointer]
+                - article [ref=e1009]:
+                  - generic [ref=e1010]:
+                    - generic [ref=e1016]:
+                      - heading "guywhitty6" [level=4] [ref=e1017]
+                      - time [ref=e1018]: 6 months ago
+                    - generic [ref=e1019]: tip
+                  - paragraph [ref=e1021]:
+                    - text: "To fix the mushy rice and boost flavor while keeping it one-pot: - Reduce stock to 600ml for fluffy grains. - Swap breast for thighs so the meat stays juicy. - Caramelize onions until deep brown (Step 2) for a richer base. - Add 1 tbsp ginger/garlic paste (Step 3) to freshen the jarred balti…"
+                    - button "More" [ref=e1022] [cursor=pointer]
+                  - button "Reply" [ref=e1025] [cursor=pointer]
+                - article [ref=e1027]:
+                  - generic [ref=e1034]:
+                    - heading "sotiriou" [level=4] [ref=e1035]
+                    - time [ref=e1036]: 9 months ago
+                  - paragraph [ref=e1038]: The ratio ,rice to water is wrong , total slosh , when you watch the video look carefully and its to stodgy, makes the recipe very bland , Good Food please amend or check recipe ty
+                  - button "Reply" [ref=e1040] [cursor=pointer]
+                - article [ref=e1042]:
+                  - generic [ref=e1043]:
+                    - generic [ref=e1049]:
+                      - heading "steved1471" [level=4] [ref=e1050]
+                      - time [ref=e1051]: 9 months ago
+                    - generic [ref=e1052]: tip
+                  - paragraph [ref=e1054]: Reduce stock from ,850 to 700
+                  - button "Reply" [ref=e1056] [cursor=pointer]
+                - button "Show more (540)" [ref=e1059] [cursor=pointer]
+            - generic [ref=e1062]:
+              - generic [ref=e1063]: Ad
+              - generic [ref=e1069]: Ad
+              - generic [ref=e1077]:
+                - generic [ref=e1079]:
+                  - link [ref=e1080] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfood.com/subscribe/?utm_medium=brandsite&utm_source=brandsite&utm_content=sidebar-widget&utm_campaign=eg-trust-eos-aug-2026
+                    - img "Good Good Trust Campaign" [ref=e1084]
+                  - generic [ref=e1085]:
+                    - link [ref=e1086] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/subscribe/?utm_medium=brandsite&utm_source=brandsite&utm_content=sidebar-widget&utm_campaign=eg-trust-eos-aug-2026
+                      - heading "Get 3 months of Good Food All Access" [level=2] [ref=e1087]
+                    - generic [ref=e1088]:
+                      - text: Get
+                      - strong [ref=e1089]: 3 months of Good Food All Access for just £6
+                      - text: . Find triple-tested recipes that take the stress out of deciding what to cook, spend less time planning, and more time enjoying the season.
+                    - button "Subscribe now" [ref=e1090] [cursor=pointer]
+                - generic [ref=e1093]:
+                  - heading "Related guides" [level=4] [ref=e1094]
+                  - generic [ref=e1095]:
+                    - article [ref=e1097]:
+                      - link "View Chicken biryani bake" [ref=e1100] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfood.com/recipes/chicken-biryani-bake
+                        - img "Chicken biryani bake" [ref=e1104]
+                      - generic [ref=e1105]:
+                        - link [ref=e1106] [cursor=pointer]:
+                          - /url: https://www.bbcgoodfood.com/recipes/chicken-biryani-bake
+                          - heading "Chicken biryani bake" [level=4] [ref=e1107]
+                        - generic "rating" [ref=e1109]:
+                          - generic [ref=e1126]: A star rating of 4.2 out of 5.
+                          - generic [ref=e1127]: 33 ratings
+                    - article [ref=e1129]:
+                      - link "View One-pot chicken biryani. This is a premium piece of content available to subscribed users." [ref=e1132] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfood.com/premium/one-pot-chicken-biryani
+                        - img "One-pot chicken biryani" [ref=e1136]
+                      - generic [ref=e1137]:
+                        - link [ref=e1138] [cursor=pointer]:
+                          - /url: https://www.bbcgoodfood.com/premium/one-pot-chicken-biryani
+                          - heading "App only|One-pot chicken biryani . This is a premium piece of content available to subscribed users." [level=4] [ref=e1149]:
+                            - text: App only|One-pot chicken biryani
+                            - generic [ref=e1150]: . This is a premium piece of content available to subscribed users.
+                        - generic "rating" [ref=e1152]:
+                          - generic [ref=e1169]: A star rating of 4.2 out of 5.
+                          - generic [ref=e1170]: 5 ratings
+                    - article [ref=e1172]:
+                      - link "View Chicken biryani pilau" [ref=e1175] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfood.com/recipes/chicken-biryani-pilau
+                        - img "Chicken biryani pilau" [ref=e1179]
+                      - generic [ref=e1180]:
+                        - link [ref=e1181] [cursor=pointer]:
+                          - /url: https://www.bbcgoodfood.com/recipes/chicken-biryani-pilau
+                          - heading "Chicken biryani pilau" [level=4] [ref=e1182]
+                        - generic "rating" [ref=e1184]:
+                          - generic [ref=e1201]: A star rating of 4.4 out of 5.
+                          - generic [ref=e1202]: 73 ratings
+                    - article [ref=e1204]:
+                      - link "View Low-fat chicken biryani" [ref=e1207] [cursor=pointer]:
+                        - /url: https://www.bbcgoodfood.com/recipes/low-fat-chicken-biryani
+                        - img "Low-fat chicken biryani" [ref=e1211]
+                      - generic [ref=e1212]:
+                        - link [ref=e1213] [cursor=pointer]:
+                          - /url: https://www.bbcgoodfood.com/recipes/low-fat-chicken-biryani
+                          - heading "Low-fat chicken biryani" [level=4] [ref=e1214]
+                        - generic "rating" [ref=e1216]:
+                          - generic [ref=e1233]: A star rating of 4 out of 5.
+                          - generic [ref=e1234]: 29 ratings
+              - generic [ref=e1235]: Ad
+          - generic [ref=e1242]:
+            - generic [ref=e1244]:
+              - heading "You may also like" [level=4] [ref=e1245]
+              - generic [ref=e1246]:
+                - article [ref=e1248]:
+                  - link "View Chicken biryani bake" [ref=e1251] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfood.com/recipes/chicken-biryani-bake
+                    - img "Chicken biryani bake" [ref=e1255]
+                  - generic [ref=e1256]:
+                    - link [ref=e1257] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/chicken-biryani-bake
+                      - heading "Chicken biryani bake" [level=4] [ref=e1258]
+                    - generic "rating" [ref=e1260]:
+                      - generic [ref=e1277]: A star rating of 4.2 out of 5.
+                      - generic [ref=e1278]: 33 ratings
+                - article [ref=e1280]:
+                  - link "View One-pot chicken biryani. This is a premium piece of content available to subscribed users." [ref=e1283] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfood.com/premium/one-pot-chicken-biryani
+                    - generic [ref=e1284]: Premium
+                    - img "One-pot chicken biryani" [ref=e1296]
+                  - generic [ref=e1297]:
+                    - link [ref=e1298] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/premium/one-pot-chicken-biryani
+                      - heading "App only|One-pot chicken biryani . This is a premium piece of content available to subscribed users." [level=4] [ref=e1299]:
+                        - text: App only|One-pot chicken biryani
+                        - generic [ref=e1300]: . This is a premium piece of content available to subscribed users.
+                    - generic "rating" [ref=e1302]:
+                      - generic [ref=e1319]: A star rating of 4.2 out of 5.
+                      - generic [ref=e1320]: 5 ratings
+                - article [ref=e1322]:
+                  - link "View Chicken biryani pilau" [ref=e1325] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfood.com/recipes/chicken-biryani-pilau
+                    - img "Chicken biryani pilau" [ref=e1329]
+                  - generic [ref=e1330]:
+                    - link [ref=e1331] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/chicken-biryani-pilau
+                      - heading "Chicken biryani pilau" [level=4] [ref=e1332]
+                    - generic "rating" [ref=e1334]:
+                      - generic [ref=e1351]: A star rating of 4.4 out of 5.
+                      - generic [ref=e1352]: 73 ratings
+                - article [ref=e1354]:
+                  - link "View Low-fat chicken biryani" [ref=e1357] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfood.com/recipes/low-fat-chicken-biryani
+                    - img "Low-fat chicken biryani" [ref=e1361]
+                  - generic [ref=e1362]:
+                    - link [ref=e1363] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/low-fat-chicken-biryani
+                      - heading "Low-fat chicken biryani" [level=4] [ref=e1364]
+                    - generic "rating" [ref=e1366]:
+                      - generic [ref=e1383]: A star rating of 4 out of 5.
+                      - generic [ref=e1384]: 29 ratings
+                - article [ref=e1386]:
+                  - link "View Chicken jalfrezi" [ref=e1389] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfood.com/recipes/chicken-jalfrezi
+                    - img "Chicken curry with red chillies in a silver bowl on a wooden board" [ref=e1397]
+                  - generic [ref=e1398]:
+                    - link [ref=e1399] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/chicken-jalfrezi
+                      - heading "Chicken jalfrezi" [level=4] [ref=e1400]
+                    - generic "rating" [ref=e1402]:
+                      - generic [ref=e1419]: A star rating of 4.5 out of 5.
+                      - generic [ref=e1420]: 631 ratings
+                - article [ref=e1422]:
+                  - link "View Easy teriyaki chicken" [ref=e1425] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfood.com/recipes/easy-teriyaki-chicken
+                    - img "Easy teriyaki chicken served with pan choi and rice" [ref=e1433]
+                  - generic [ref=e1434]:
+                    - link [ref=e1435] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/easy-teriyaki-chicken
+                      - heading "Easy teriyaki chicken" [level=4] [ref=e1436]
+                    - generic "rating" [ref=e1438]:
+                      - generic [ref=e1455]: A star rating of 4.4 out of 5.
+                      - generic [ref=e1456]: 306 ratings
+                - article [ref=e1458]:
+                  - link "View Carrot biryani" [ref=e1461] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfood.com/recipes/carrot-biriyani
+                    - img "Carrot biryani served in a frying pan" [ref=e1465]
+                  - generic [ref=e1466]:
+                    - link [ref=e1467] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/carrot-biriyani
+                      - heading "Carrot biryani" [level=4] [ref=e1468]
+                    - generic "rating" [ref=e1470]:
+                      - generic [ref=e1487]: A star rating of 4.5 out of 5.
+                      - generic [ref=e1488]: 212 ratings
+                - article [ref=e1490]:
+                  - link "View Ginger chicken" [ref=e1493] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfood.com/recipes/ginger-chicken
+                    - img "Ginger chicken" [ref=e1497]
+                  - generic [ref=e1498]:
+                    - link [ref=e1499] [cursor=pointer]:
+                      - /url: https://www.bbcgoodfood.com/recipes/ginger-chicken
+                      - heading "Ginger chicken" [level=4] [ref=e1500]
+                    - generic "rating" [ref=e1502]:
+                      - generic [ref=e1519]: A star rating of 4.6 out of 5.
+                      - generic [ref=e1520]: 194 ratings
+            - generic [ref=e1522]:
+              - heading "Related recipe collections" [level=4] [ref=e1523]
+              - generic [ref=e1524]:
+                - article [ref=e1526]:
+                  - link "View Biryani" [ref=e1529] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfood.com/recipes/collection/biriyani-recipes
+                    - img "Lamb biryani in a pot with corriander" [ref=e1533]
+                  - link [ref=e1535] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfood.com/recipes/collection/biriyani-recipes
+                    - heading "Biryani" [level=4] [ref=e1536]
+                - article [ref=e1538]:
+                  - link "View Rice &amp; chicken" [ref=e1541] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfood.com/recipes/collection/rice-chicken-recipes
+                    - img "One pot of chicken, rice and vegetables" [ref=e1545]
+                  - link [ref=e1547] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfood.com/recipes/collection/rice-chicken-recipes
+                    - heading "Rice & chicken" [level=4] [ref=e1548]
+                - article [ref=e1550]:
+                  - link "View Healthy chicken curry" [ref=e1553] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfood.com/recipes/collection/healthy-chicken-curry-recipes
+                    - img "Tandoori chicken curry in a bowl" [ref=e1557]
+                  - link [ref=e1559] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfood.com/recipes/collection/healthy-chicken-curry-recipes
+                    - heading "Healthy chicken curry" [level=4] [ref=e1560]
+                - article [ref=e1562]:
+                  - link "View Indian fakeaway recipes" [ref=e1565] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfood.com/recipes/collection/indian-fakeaway-recipes
+                    - img "Butter chicken in blue pan topped with coriander" [ref=e1569]
+                  - link [ref=e1571] [cursor=pointer]:
+                    - /url: https://www.bbcgoodfood.com/recipes/collection/indian-fakeaway-recipes
+                    - heading "Indian fakeaway recipes" [level=4] [ref=e1572]
+    - generic [ref=e1578]:
+      - article [ref=e1580]:
+        - link "View Explore our recipe app" [ref=e1583] [cursor=pointer]:
+          - /url: https://immediate.onelink.me/OQap?af_xp=custom&pid=website&c=homepage_widget&is_oct26_30_minute_comforts&is_retargeting=true&af_reengagement_window=30d&af_dp=bbcgoodfood%3A%2F%2F
+          - img "Good Food App Footer Prepped Not Processed" [ref=e1587]
+        - generic [ref=e1588]:
+          - link [ref=e1589] [cursor=pointer]:
+            - /url: https://immediate.onelink.me/OQap?af_xp=custom&pid=website&c=homepage_widget&is_oct26_30_minute_comforts&is_retargeting=true&af_reengagement_window=30d&af_dp=bbcgoodfood%3A%2F%2F
+            - heading "Explore our recipe app" [level=4] [ref=e1590]
+          - paragraph [ref=e1592]: Subscribe now and get access to exclusive recipes, meal plans, podcasts and more.
+          - button "Try today" [ref=e1593] [cursor=pointer]
+      - article [ref=e1596]:
+        - 'link "View All Access subscription: Magazine &amp; App" [ref=e1599] [cursor=pointer]':
+          - /url: https://www.bbcgoodfood.com/subscribe/?utm_medium=brandsite&utm_source=brandsite&utm_content=footer-menu&utm_campaign=sit-xmas-autumn-slow-cooker-sep-2026
+          - img "footer-promo-880x800" [ref=e1603]
+        - generic [ref=e1604]:
+          - link [ref=e1605] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/subscribe/?utm_medium=brandsite&utm_source=brandsite&utm_content=footer-menu&utm_campaign=sit-xmas-autumn-slow-cooker-sep-2026
+            - 'heading "All Access subscription: Magazine & App" [level=4] [ref=e1606]'
+          - paragraph [ref=e1608]: Good Food magazine and our award winning app in one premium subscription. Subscribe now for our Christmas issue
+          - button "Subscribe today" [ref=e1609] [cursor=pointer]
+      - article [ref=e1612]:
+        - link "View Podcast" [ref=e1615] [cursor=pointer]:
+          - /url: https://www.bbcgoodfood.com/feature/podcasts
+          - img "Good Food Podcast with Samuel Goldsmith cover" [ref=e1619]
+        - generic [ref=e1620]:
+          - link [ref=e1621] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/feature/podcasts
+            - heading "Podcast" [level=4] [ref=e1622]
+          - paragraph [ref=e1624]: Our food team shares tips, techniques and their all-time favourite recipes in our lively weekly podcast.
+          - button "More" [ref=e1625] [cursor=pointer]
+    - contentinfo [ref=e1627]:
+      - generic [ref=e1629]:
+        - link [ref=e1631] [cursor=pointer]:
+          - /url: https://www.bbcgoodfood.com
+          - img "Good Food logo in white colour" [ref=e1633]
+        - list [ref=e1635]:
+          - listitem [ref=e1636]:
+            - link "Visit us on Facebook" [ref=e1637] [cursor=pointer]:
+              - /url: https://www.facebook.com/goodfoodeveryday
+          - listitem [ref=e1644]:
+            - link "Visit us on Twitter" [ref=e1645] [cursor=pointer]:
+              - /url: https://twitter.com/@BBCgoodfood
+          - listitem [ref=e1652]:
+            - link "Visit us on Instagram" [ref=e1653] [cursor=pointer]:
+              - /url: https://www.instagram.com/goodfoodeveryday
+          - listitem [ref=e1660]:
+            - link "Visit us on Pinterest" [ref=e1661] [cursor=pointer]:
+              - /url: http://uk.pinterest.com/goodfood
+          - listitem [ref=e1668]:
+            - link "Visit us on Youtube" [ref=e1669] [cursor=pointer]:
+              - /url: https://www.youtube.com/@GoodFood
+          - listitem [ref=e1676]:
+            - link "Visit us on Tiktok" [ref=e1677] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@goodfood
+          - listitem [ref=e1684]:
+            - link "Visit us on Rss" [ref=e1685] [cursor=pointer]:
+              - /url: https://www.bbcgoodfood.com/feed/atom/
+      - generic [ref=e1693]:
+        - list [ref=e1695]:
+          - listitem [ref=e1696]:
+            - link "About us" [ref=e1697] [cursor=pointer]:
+              - /url: https://www.bbcgoodfood.com/about-bbc-good-food
+          - listitem [ref=e1698]:
+            - link "Contact Us" [ref=e1699] [cursor=pointer]:
+              - /url: https://www.bbcgoodfood.com/contact-us
+          - listitem [ref=e1700]:
+            - link "Privacy Queries" [ref=e1701] [cursor=pointer]:
+              - /url: https://www.bbcgoodfood.com/privacy-policy-form
+          - listitem [ref=e1702]:
+            - link "Privacy Policy" [ref=e1703] [cursor=pointer]:
+              - /url: https://www.immediate.co.uk/privacy/
+          - listitem [ref=e1704]:
+            - link "Terms & Conditions" [ref=e1705] [cursor=pointer]:
+              - /url: https://www.immediate.co.uk/terms-and-conditions/
+          - listitem [ref=e1706]:
+            - link "Cookies Policy" [ref=e1707] [cursor=pointer]:
+              - /url: https://www.immediate.co.uk/cookies/
+          - listitem [ref=e1708]:
+            - link "Complaints escalation" [ref=e1709] [cursor=pointer]:
+              - /url: https://www.immediate.co.uk/complaints-escalation/
+          - listitem [ref=e1710]:
+            - link "Advertise" [ref=e1711] [cursor=pointer]:
+              - /url: https://www.immediate.co.uk/brands/bbc-good-food-magazine/#advertising
+          - listitem [ref=e1712]:
+            - link "Accessibility" [ref=e1713] [cursor=pointer]:
+              - /url: https://www.immediate.co.uk/accessibility/
+          - listitem [ref=e1714]:
+            - link "Sustainability" [ref=e1715] [cursor=pointer]:
+              - /url: https://www.bbcgoodfood.com/feature/sustainability
+          - listitem [ref=e1716]:
+            - link "AI Policy" [ref=e1717] [cursor=pointer]:
+              - /url: https://www.immediate.co.uk/genai/
+          - listitem [ref=e1718]:
+            - link "Manage Privacy Settings" [ref=e1719] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=e1720]:
+          - link [ref=e1722] [cursor=pointer]:
+            - /url: https://www.immediate.co.uk
+            - img "Immediate company logo in white" [ref=e1726]
+          - generic [ref=e1727]:
+            - generic [ref=e1728]: This website is owned and published by Immediate Media Company Limited. The domain name is used under licence from BBC Studios Distribution Limited.
+            - generic [ref=e1729]: © Immediate 2026
+      - list [ref=e1732]:
+        - listitem [ref=e1733]:
+          - link "Nutracheck.co.uk" [ref=e1734] [cursor=pointer]:
+            - /url: https://www.nutracheck.co.uk/Home?utm_source=goodfood&utm_medium=footer&utm_campaign=gf-footer
+        - listitem [ref=e1735]:
+          - link "OliveMagazine.com" [ref=e1736] [cursor=pointer]:
+            - /url: https://www.olivemagazine.com
+        - listitem [ref=e1737]:
+          - link "GoodFoodShow.com" [ref=e1738] [cursor=pointer]:
+            - /url: https://www.goodfoodshow.com/summer/?utm_source=bbcgoodfood.com&utm_medium=referral&utm_campaign=footer
+        - listitem [ref=e1739]:
+          - link "RadioTimes.com" [ref=e1740] [cursor=pointer]:
+            - /url: https://www.radiotimes.com
+        - listitem [ref=e1741]:
+          - link "HistoryExtra.com" [ref=e1742] [cursor=pointer]:
+            - /url: https://www.historyextra.com
+        - listitem [ref=e1743]:
+          - link "GardenersWorld.com" [ref=e1744] [cursor=pointer]:
+            - /url: https://www.gardenersworld.com
+        - listitem [ref=e1745]:
+          - link "MadeForMums.com" [ref=e1746] [cursor=pointer]:
+            - /url: https://www.madeformums.com
+      - list [ref=e1749]:
+        - listitem [ref=e1750]:
+          - link "Barbecue" [ref=e1751] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/barbecue-collections
+        - listitem [ref=e1752]:
+          - link "Dietary needs" [ref=e1753] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/dietary-needs-collections
+        - listitem [ref=e1754]:
+          - link "Healthy eating" [ref=e1755] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/healthy-eating-collections
+        - listitem [ref=e1756]:
+          - link "Seasonal" [ref=e1757] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/seasonal-food-collections
+        - listitem [ref=e1758]:
+          - link "Bread, pastry & cakes" [ref=e1759] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/bread-pastry-cake-collections
+        - listitem [ref=e1760]:
+          - link "Dinner ideas" [ref=e1761] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/dinner-idea-collections
+        - listitem [ref=e1762]:
+          - link "Nuts & seeds" [ref=e1763] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/nuts-and-seeds-collections
+        - listitem [ref=e1764]:
+          - link "Soups" [ref=e1765] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/soup-collections
+        - listitem [ref=e1766]:
+          - link "Breakfast" [ref=e1767] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/breakfast-collections
+        - listitem [ref=e1768]:
+          - link "Dinner party" [ref=e1769] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/dinner-party-collections
+        - listitem [ref=e1770]:
+          - link "Poultry" [ref=e1771] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/poultry-collections
+        - listitem [ref=e1772]:
+          - link "Special occasions" [ref=e1773] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/special-occasion-collections
+        - listitem [ref=e1774]:
+          - link "Casserole & slow cooker" [ref=e1775] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/casserole-slow-cooker-collections
+        - listitem [ref=e1776]:
+          - link "Drinks" [ref=e1777] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/drinks-collections
+        - listitem [ref=e1778]:
+          - link "Pulses & grains" [ref=e1779] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/pulses-and-grains-collections
+        - listitem [ref=e1780]:
+          - link "Sweet treats" [ref=e1781] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/sweet-treat-collections
+        - listitem [ref=e1782]:
+          - link "Cheese" [ref=e1783] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/cheese-collections
+        - listitem [ref=e1784]:
+          - link "Easter" [ref=e1785] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/all-easter-collections
+        - listitem [ref=e1786]:
+          - link "Quick & easy budget meals" [ref=e1787] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/easy-and-budget-collections
+        - listitem [ref=e1788]:
+          - link "Vegan" [ref=e1789] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/vegan-collections
+        - listitem [ref=e1790]:
+          - link "Christmas" [ref=e1791] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/christmas-collections
+        - listitem [ref=e1792]:
+          - link "Family friendly" [ref=e1793] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/family-friendly-collections
+        - listitem [ref=e1794]:
+          - link "Red meat & game" [ref=e1795] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/red-meat-and-game-collections
+        - listitem [ref=e1796]:
+          - link "Vegetables" [ref=e1797] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/vegetable-collections
+        - listitem [ref=e1798]:
+          - link "Cuisine" [ref=e1799] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/cuisine-collections
+        - listitem [ref=e1800]:
+          - link "Fish & seafood" [ref=e1801] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/fish-seafood-collections
+        - listitem [ref=e1802]:
+          - link "Religious events" [ref=e1803] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/religious-events-collections
+        - listitem [ref=e1804]:
+          - link "Vegetarian" [ref=e1805] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/vegetarian-collections
+        - listitem [ref=e1806]:
+          - link "Desserts" [ref=e1807] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/dessert-collections
+        - listitem [ref=e1808]:
+          - link "Fruit" [ref=e1809] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/category/fruit-collections
+        - listitem [ref=e1810]:
+          - link "Salads" [ref=e1811] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/recipes/collection/salad-collections
+        - listitem [ref=e1812]:
+          - link "US recipes" [ref=e1813] [cursor=pointer]:
+            - /url: https://www.bbcgoodfood.com/us
+  - alert [ref=e1814]
+  - dialog [ref=e1815]:
+    - iframe [active] [ref=e1816]:
+      - generic [ref=f2e4]:
+        - generic [ref=f2e6]:
+          - paragraph [ref=f2e7]: We value your privacy
+          - paragraph [ref=f2e8]:
+            - text: We need your consent so that we and our 133 trusted
+            - link "partners" [ref=f2e9] [cursor=pointer]:
+              - /url: "#"
+            - generic "message-link" [ref=f2e10]:
+              - text: can store and access cookies, unique identifiers, personal data, and information on your browsing behaviour on this device. This only applies to Immediate Media. You can change your preferences at any time by clicking on ‘Manage Privacy Settings’ located at the bottom of any page. You don’t have to agree, but some personalised content and advertising may not work if you don’t. We and our
+              - link "partners" [ref=f2e11] [cursor=pointer]:
+                - /url: "#"
+              - text: "use your data for the following purposes:"
+            - paragraph
+            - paragraph [ref=f2e12]
+            - paragraph [ref=f2e13]:
+              - emphasis [ref=f2e14]: Store and/or access information on a device
+            - paragraph [ref=f2e15]:
+              - emphasis [ref=f2e16]: Precise geolocation data, and identification through device scanning
+            - paragraph [ref=f2e17]:
+              - emphasis [ref=f2e18]: Personalised advertising and content, advertising and content measurement, audience research and services development.
+            - paragraph [ref=f2e19]:
+              - emphasis [ref=f2e20]: Google Consent Mode framework
+            - paragraph [ref=f2e21]
+            - paragraph [ref=f2e22]:
+              - text: To view our list of
+              - link "partners" [ref=f2e23] [cursor=pointer]:
+                - /url: "#"
+              - text: and see how your data may be used, click or tap ‘More Options’ below. You can also review where our partners claim a legitimate interest to use your data and, if you wish, object to them using it.
+        - generic [ref=f2e24]:
+          - button "MORE OPTIONS" [ref=f2e25] [cursor=pointer]
+          - button "AGREE" [ref=f2e26] [cursor=pointer]
